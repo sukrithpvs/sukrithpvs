@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Stat IQ<br>🌱 I’m currently learning Devops<br>
+
 
 
 ## 🌐 Socials:
